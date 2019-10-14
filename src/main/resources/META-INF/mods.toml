@@ -1,0 +1,25 @@
+modLoader="javafml" 
+loaderVersion="[28,)"
+
+[[mods]]
+modId="totemz"
+version="${file.jarVersion}"
+displayName="Totemz"
+authors="xieao"
+description='''
+Change.
+'''
+
+#[[dependencies.totemz]]
+#    modId="lollipop"
+#    mandatory=true
+#    versionRange="[0.0.1,)"
+#    ordering="NONE"
+#    side="BOTH"
+
+[[dependencies.totemz]]
+    modId="forge"
+    mandatory=true
+    versionRange="[28.1.39,)"
+    ordering="NONE"
+    side="BOTH"

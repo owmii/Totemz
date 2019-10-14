@@ -1,0 +1,10 @@
+{
+  "itemGroup.totemz": "Totemz",
+  "item.totemz.totem_of_undying_2": "Totem Of Undying (II)",
+  "item.totemz.totem_of_undying_3": "Totem Of Undying (III)",
+  "item.totemz.totem_of_undying_4": "Totem Of Undying (IV)",
+  "item.totemz.totem_of_undying_5": "Totem Of Undying (V)",
+  "tooltip.totemz.next.lvl": "Next level: ",
+  "tooltip.totemz.kill.points": "Kill points: ",
+  "message.totemz.level.up": "Totem leveled up to %s."
+}
